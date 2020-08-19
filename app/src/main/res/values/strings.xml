@@ -1,6 +1,3 @@
 <resources>
-    <string name="app_name">Calculating Application</string>
-    <string name="hint_id">please enter a number</string>
-    <string name="hint2_id">please enter a number</string>
-    <string name="add">ADD</string>
+    <string name="app_name">MyCalculator</string>
 </resources>
